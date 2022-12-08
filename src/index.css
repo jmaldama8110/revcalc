@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +12,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.AppContainer {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.button-whatsapp {
+  border: 1px solid gray;
+  width: 150px;
+  background: green; 
+}
+h4{
+  margin: 0.5rem 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5rem 0.5rem
+}
+a:hover {
+  cursor: pointer;
+  color: green;
+}
+
