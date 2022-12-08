@@ -5,6 +5,7 @@
 
 .slider {
 	-webkit-appearance: none;
+    margin: 1rem 1rem;
     width: 250px;
 	/* height: 10px; */
     cursor: pointer;

@@ -18,7 +18,7 @@ code {
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   
 }
@@ -28,7 +28,7 @@ code {
   width: 150px;
   background: green; 
 }
-h4{
+h4, h3, h2{
   margin: 0.5rem 0.5rem;
 }
 
@@ -42,4 +42,44 @@ a:hover {
   cursor: pointer;
   color: green;
 }
+
+.table-container {
+  width: 250px;
+  border: 2px solid black;
+}
+
+.table-header {
+  display: flex;
+  /* justify-content: space-between; */
+  width: 250px;
+}
+.table-row {
+  
+  display: flex;
+  /* justify-content: space-between;   */
+  width: 250px;
+}
+.table-footer {
+  border: 1px solid greenyellow;
+  display: flex;
+  /* justify-content: space-between; */
+  width: 250px;
+}
+
+.mg p{
+  margin: 0 0;
+}
+.s1 {
+  width: 50px;
+  
+}
+.s2 {
+  width: 100px;
+  
+}
+.s3 {
+  width: 100px;
+  
+}
+
 
