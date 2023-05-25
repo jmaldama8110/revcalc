@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/revcalc/static/css/main.67ca9ed6.css",
+    "main.js": "/revcalc/static/js/main.5bf4642a.js",
+    "static/js/787.f502e5ab.chunk.js": "/revcalc/static/js/787.f502e5ab.chunk.js",
+    "index.html": "/revcalc/index.html",
+    "main.67ca9ed6.css.map": "/revcalc/static/css/main.67ca9ed6.css.map",
+    "main.5bf4642a.js.map": "/revcalc/static/js/main.5bf4642a.js.map",
+    "787.f502e5ab.chunk.js.map": "/revcalc/static/js/787.f502e5ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ca9ed6.css",
+    "static/js/main.5bf4642a.js"
+  ]
+}
