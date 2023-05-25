@@ -8,7 +8,7 @@ function App() {
   return (
 
     <Routes>
-      <Route path="/revcalc" element={ <Navigate to='/' replace={true}/>}> </Route>
+      {/* <Route path="/revcalc" element={ <Navigate to='/' replace={true}/>}> </Route> */}
       <Route path="/" element={<Calculator />}></Route>
       <Route path="/test" element={<TestComponent />}></Route>
 
